@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-16T22:56:33+02:00
+
+====== Zim How-To ======
+Created Saturday 16 March 2019
+
+**Version Control**
+<https://zim-wiki.org/manual/Plugins/Version_Control.html>
+
+**Getting Work Done in Zim**
+<https://www.glump.net/content/getting-work-done-in-zim/getting-work-done-in-zim.html>
+
+
+
+
+
+
+

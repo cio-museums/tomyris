@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-16T20:29:51+02:00
+
+====== Greek Authors ======
+Created Saturday 16 March 2019
+
+Herodotus
+Strabo
+Polyaenus
+Cassiodorus
+Jordanes 
+
+* [[../../docs/2015_1e_Anistoriton.pdf|Tomyris, Queen of the Massagetes]]
