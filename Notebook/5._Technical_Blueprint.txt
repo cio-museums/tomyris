@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-17T21:43:04+02:00
+
+====== 5. Technical Blueprint ======
+Created Sunday 17 March 2019
+
