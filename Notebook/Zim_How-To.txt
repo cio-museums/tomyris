@@ -5,6 +5,9 @@ Creation-Date: 2019-03-16T22:56:33+02:00
 ====== Zim How-To ======
 Created Saturday 16 March 2019
 
+**Git Commands**
+git push -u origin master
+
 **Version Control**
 <https://zim-wiki.org/manual/Plugins/Version_Control.html>
 
