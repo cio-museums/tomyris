@@ -5,5 +5,6 @@ Creation-Date: 2019-03-16T20:06:04+02:00
 ====== Notebook ======
 Created Saturday 16 March 2019
 
-An pilot project to create thematic services for Digital Cultural Heritage and Digital Humanities.
+**Tomyris**
+A pilot project to create thematic services for Digital Cultural Heritage and Digital Humanities.
 
