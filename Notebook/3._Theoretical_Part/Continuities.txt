@@ -2,8 +2,12 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2019-03-17T21:48:09+02:00
 
-====== Continuities ======
+=== Continuities ===
 Created Sunday 17 March 2019
+
+===== The Continuuum of Culture, Cultural Heritage and Digital Humanities =====
+
+
 
 {{../../../pics/continuities.jpg?width=800}}
 
