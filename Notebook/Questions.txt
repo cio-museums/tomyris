@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2019-03-18T23:11:23+02:00
-
-====== Questions ======
-Created Monday 18 March 2019
-
