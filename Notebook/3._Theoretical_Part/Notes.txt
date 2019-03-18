@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-18T20:35:21+02:00
+
+====== Notes ======
+Last Updated Monday 18/03/2019
+
+STATES ↔ STATEMENTS
+REFERENTS ↔ SOURCES ↔ RESOURCES
+
+|                        <|     <|                      <|     <|                <|
+|:------------------------|:-----|:----------------------|:-----|:----------------|
+| REFERENTS in some STATE | <--> | SOURCES in some STATE | <--> | REPRESENTATIONS |
+|                         |      |                       |      | STATEMENTS      |
+
+
+**Referents** and **Sources** have **States** that can be represented as **Representations** and/or **Statements**
